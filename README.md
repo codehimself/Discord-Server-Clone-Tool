@@ -7,7 +7,7 @@
 ## Overview
 This project was made to make your life easier, instead of spending hours trying to make your server as beautiful as possible you can simply clone a server with this tool
 
-**More information:** [Cloner Website](https://cloner-one.vercel.app/)
+**More information:** [Discord](https://discord.gg/bRYNAtqT3r)
 
 ## How to use
 ```typescript
@@ -27,7 +27,6 @@ $ npm i -g tsx
 ```typescript
 $ tsx .
 ```
-**You can also use [codesandbox](https://codesandbox.io/dashboard/recent) to start the cloner**
 
 ----
 
